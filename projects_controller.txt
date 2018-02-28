@@ -1,2 +1,3 @@
 projects controller
 index action
+show action
